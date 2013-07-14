@@ -6,7 +6,7 @@ Twitter search API usage.
 Technologies involved
 ---------------------
 
-* OOP on Javascript
+* OOP in Javascript
 * Jquery ajax
 * CSS gradients and shadows
 * 960 grid
